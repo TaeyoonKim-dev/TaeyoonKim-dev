@@ -1,14 +1,15 @@
 - 👋 Hi, I'm @Taeyoon Kim
 - 👀 I'm interested in Web Development.
-- 🌱 I'm currently learning JavaScript and also studying HTML and CSS.
-- 📫 Instagram: @taeyoon_0526 - Feel free to send me a DM!
+- 🌱 I'm currently learning JavaScript and also studying HTML and CSS. Additionally, I've learned Python, C, and Scratch.
+- 📫 Instagram: [@taeyoon_0526](https://instagram.com/taeyoon_0526) - Feel free to send me a DM!
 - 😄 Pronouns: He/His
 - 📝 Job: Middle School Student (1st year)
-- 🎓 Learning: I'm learning web development through online courses and YouTube tutorials.
-- 🛠️ Skills: Basic knowledge of JavaScript, HTML, and CSS
+- 🎓 Learning: I'm learning web development through online courses and YouTube tutorials. I'm also studying at [Codeit](https://www.codeit.kr/).
+- 🛠️ Skills: Basic knowledge of JavaScript, HTML, CSS, Python, C, and Scratch.
 - 🌐 Projects: Working on simple web pages and a portfolio site.
 - 🚀 Goals: My short-term goal is to become proficient in JavaScript, and my long-term goal is to become a web developer.
 - 🧠 Learning: Currently learning the basics of JavaScript and web page design.
 - 💡 Hobbies: Besides coding, I enjoy playing games and reading various tech blogs.
 - 🌍 Community: I'm active in coding communities and forums, where I seek help and share what I'm learning.
-- 🔗 Links: [GitHub](https://github.com/TaeyoonKim-dev) | [Instagram](https://instagram.com/taeyoon_0526)
+- 🔗 Links: [GitHub](https://github.com/TaeyoonKim-dev) | [Instagram](https://instagram.com/taeyoon_0526) | [Portfolio](https://taeyoon0526.netlify.app)
+- 📜 Certifications: Cos Pro Python Level 3 and C Language Level 3
